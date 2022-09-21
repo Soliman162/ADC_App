@@ -1,0 +1,5 @@
+/home/soliman/AVR/ATmega32/ADC_Appliction/APP/build/CMakeFiles/ADC_APPLICATION.elf.dir
+/home/soliman/AVR/ATmega32/ADC_Appliction/APP/build/CMakeFiles/flash.dir
+/home/soliman/AVR/ATmega32/ADC_Appliction/APP/build/CMakeFiles/burn.dir
+/home/soliman/AVR/ATmega32/ADC_Appliction/APP/build/CMakeFiles/edit_cache.dir
+/home/soliman/AVR/ATmega32/ADC_Appliction/APP/build/CMakeFiles/rebuild_cache.dir

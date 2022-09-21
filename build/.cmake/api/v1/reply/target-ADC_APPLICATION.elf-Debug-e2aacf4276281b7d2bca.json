@@ -1,0 +1,181 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "ADC_APPLICATION.elf"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mmcu=atmega32 -O1 -DF_CPU=8000000UL -g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"id" : "ADC_APPLICATION.elf::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-mmcu=atmega32 -O1 -DF_CPU=8000000UL -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "ADC_APPLICATION.elf",
+	"nameOnDisk" : "ADC_APPLICATION.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LED/LED_program.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LM35/LM35_program.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/CLCD/CLCD_program.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/DIO/DIO_program.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/ADC/ADC_program.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/Timer1/TIMER1_program.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

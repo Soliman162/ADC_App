@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"lm35_private.h": "c",
+			"clcd_interface.h": "c",
+			"dio_interface.h": "c",
+			"bit_math.h": "c",
+			"adc_config.h": "c",
+			"adc_private.h": "c",
+			"lm35_config.h": "c",
+			"std_types.h": "c",
+			"timer1_interface.h": "c",
+			"lm35_interface.h": "c"
+		}
+	}
+}

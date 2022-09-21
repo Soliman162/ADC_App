@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/main.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/APP/main.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/APP/main.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LED/LED_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LED/LED_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LED/LED_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LM35/LM35_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LM35/LM35_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/LM35/LM35_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/CLCD/CLCD_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/HAL/CLCD/CLCD_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/HAL/CLCD/CLCD_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/DIO/DIO_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/DIO/DIO_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/DIO/DIO_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/ADC/ADC_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/ADC/ADC_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/ADC/ADC_program.c"
+},
+{
+  "directory": "/home/soliman/AVR/ATmega32/ADC_Appliction/build",
+  "command": "/usr/bin/avr-gcc  -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../LIB -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/DIO -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/ADC -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../MCAL/Timer1 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LED -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LM35 -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/LDR -I/home/soliman/AVR/ATmega32/ADC_Appliction/APP/../HAL/CLCD -mmcu=atmega32 -O1 -DF_CPU=8000000UL -g -o CMakeFiles/ADC_APPLICATION.elf.dir/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/Timer1/TIMER1_program.c.o -c /home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/Timer1/TIMER1_program.c",
+  "file": "/home/soliman/AVR/ATmega32/ADC_Appliction/MCAL/Timer1/TIMER1_program.c"
+}
+]
